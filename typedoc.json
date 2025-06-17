@@ -1,0 +1,19 @@
+{
+  "entryPoints": [
+    "src"
+  ],
+  "out": "docs",
+  "includeVersion": true,
+  "excludePrivate": true,
+  "excludeProtected": false,
+  "excludeInternal": true,
+  "excludeExternals": true,
+  "excludeNotDocumented": false,
+  "sort": [
+    "source-order"
+  ],
+  "tsconfig": "tsconfig.app.json",
+  "entryPointStrategy": "expand",
+  "name": "Ma Todolist App",
+  "readme": "none"
+}

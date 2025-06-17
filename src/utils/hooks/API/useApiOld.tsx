@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import type { OptionsType } from "../typescript/OptionsType";
+import type { OptionsType } from "../../typescript/OptionsType";
 
 // La version sans utilisation du cache
 
